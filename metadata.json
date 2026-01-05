@@ -1,0 +1,7 @@
+{
+  "name": "CityLens AR",
+  "description": "An AR-style photo tourism companion that identifies landmarks, fetches their history via Google Search, and narrates the story.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
